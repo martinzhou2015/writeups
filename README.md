@@ -30,7 +30,7 @@
 - https://seanmelia.files.wordpress.com/2015/12/paypal-xxe-doc.pdf
 
 
-### Hacker
+### Hackerone
 - https://hackerone.com/reports/489146
 - https://hackerone.com/reports/398054
 - https://hackerone.com/reports/474656
