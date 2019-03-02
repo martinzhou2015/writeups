@@ -34,3 +34,13 @@
 - https://hackerone.com/reports/489146
 - https://hackerone.com/reports/398054
 - https://hackerone.com/reports/474656
+
+# Categories
+
+## Web
+### JavaScript Prototype Poisoning 
+- https://bbs.pediy.com/thread-249643.htm
+- https://medium.com/intrinsic/javascript-prototype-poisoning-vulnerabilities-in-the-wild-7bc15347c96
+- https://hackerone.com/reports/310443
+- https://xz.aliyun.com/t/2802
+- https://github.com/HoLyVieR/prototype-pollution-nsec18
