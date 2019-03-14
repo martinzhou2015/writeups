@@ -5,7 +5,7 @@
 ### Facebook
 
 - https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
-
+- https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
 
 ### Google
 - https://www.ezequiel.tech/p/36k-google-app-engine-rce.html
@@ -44,3 +44,7 @@
 - https://hackerone.com/reports/310443
 - https://xz.aliyun.com/t/2802
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
+
+
+### Websocket Fuzzer
+- https://www.vdalabs.com/2019/03/05/hacking-web-sockets-all-web-pentest-tools-welcomed/
