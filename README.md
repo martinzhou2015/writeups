@@ -44,6 +44,7 @@
 - https://hackerone.com/reports/310443
 - https://xz.aliyun.com/t/2802
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
+- https://xz.aliyun.com/t/2735
 
 
 ### Websocket Fuzzer
