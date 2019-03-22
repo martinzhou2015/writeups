@@ -35,6 +35,9 @@
 - https://hackerone.com/reports/398054
 - https://hackerone.com/reports/474656
 
+### Airbnb
+- https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/
+
 # Categories
 
 ## Web
