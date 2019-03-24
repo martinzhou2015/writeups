@@ -28,6 +28,7 @@
 - http://artsploit.blogspot.com/2016/08/pprce2.html
 - http://artsploit.blogspot.com/2016/01/paypal-rce.html
 - https://seanmelia.files.wordpress.com/2015/12/paypal-xxe-doc.pdf
+- https://www.anquanke.com/post/id/86477
 
 
 ### Hackerone
