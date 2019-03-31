@@ -53,3 +53,7 @@
 
 ### Websocket Fuzzer
 - https://www.vdalabs.com/2019/03/05/hacking-web-sockets-all-web-pentest-tools-welcomed/
+
+### ImageMagick Exp
+- https://www.softwaresecured.com/imagemagick-rce-take-2/
+
