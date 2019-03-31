@@ -56,4 +56,4 @@
 
 ### ImageMagick Exp
 - https://www.softwaresecured.com/imagemagick-rce-take-2/
-
+- http://gv7.me/articles/2018/ghostscript-rce-20180821/
