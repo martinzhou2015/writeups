@@ -57,3 +57,8 @@
 ### ImageMagick Exp
 - https://www.softwaresecured.com/imagemagick-rce-take-2/
 - http://gv7.me/articles/2018/ghostscript-rce-20180821/
+
+### Fastjson
+- https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
+- https://github.com/FasterXML/jackson-databind/issues?q=label%3ACVE+is%3Aclosed
+- https://adamcaudill.com/2017/10/04/exploiting-jackson-rce-cve-2017-7525/
