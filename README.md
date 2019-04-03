@@ -62,3 +62,6 @@
 - https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
 - https://github.com/FasterXML/jackson-databind/issues?q=label%3ACVE+is%3Aclosed
 - https://adamcaudill.com/2017/10/04/exploiting-jackson-rce-cve-2017-7525/
+
+### K8S
+- https://www.freebuf.com/news/196993.html
