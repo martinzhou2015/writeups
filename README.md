@@ -50,6 +50,8 @@
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
 - https://xz.aliyun.com/t/2735
 
+### Bugzilla 
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1544304
 
 ### Websocket Fuzzer
 - https://www.vdalabs.com/2019/03/05/hacking-web-sockets-all-web-pentest-tools-welcomed/
