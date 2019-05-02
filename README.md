@@ -39,6 +39,10 @@
 ### Airbnb
 - https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/
 
+
+### Shopify
+- https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+
 # Categories
 
 ## Web
