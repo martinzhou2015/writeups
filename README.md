@@ -22,6 +22,8 @@
 - https://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html
 - https://blog.bentkowski.info/2014/09/in-this-post-ill-explain-to-you.html
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/
+- https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/
+- https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a
 
 ### Paypal
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c
