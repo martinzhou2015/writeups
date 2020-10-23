@@ -6,6 +6,7 @@
 
 - https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
+- https://vinothkumar.me/20000-facebook-dom-xss/
 
 ### Google
 - https://www.ezequiel.tech/p/36k-google-app-engine-rce.html
